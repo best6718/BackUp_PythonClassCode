@@ -2,11 +2,11 @@
 Karena Huang
 CS80K Python
 2/12/19
-max-of-a=three.py
+max-of-three.py
 """
-x = 19
-y = 15
-z = 5
+x = 15
+y = 5
+z = 19
 
 if (x > y) and (x > z):
     print("x is max")
