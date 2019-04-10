@@ -7,7 +7,7 @@ print('Here is the file handle: ' + str(myfile) + ' of type ' + str(type(myfile)
 content = myfile.read()     #content is now a string  
 print('Content is of type: ' + str(type(content)))
 
-# len gives the number of characters in a file 
+# len gives the number of charactes in a file 
 print('The length of the file is ' + str(len(content)))
 
 # print the entire file 
